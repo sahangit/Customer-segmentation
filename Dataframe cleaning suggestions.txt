@@ -1,0 +1,3 @@
+After removing special labels, check negative value representation and sum them accordint to the custoemr
+Remove Special labels as they represents small values
+Remove all null value customers
